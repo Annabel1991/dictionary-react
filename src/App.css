@@ -1,7 +1,9 @@
-.App{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-  url("./background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+.App-header{
+  margin:30px 0;
+ }
+
+ .App-footer{
+text-align: center;
+margin:30px 0;
  }
 
