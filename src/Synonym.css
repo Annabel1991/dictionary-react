@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+  }
+  
+  li {
+    color:#a23a14;
+    display: inline-block;
+    padding-right: 15px;
+    font-size: 25px;
+    font-weight: 600;
+  }

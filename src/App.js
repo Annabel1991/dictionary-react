@@ -11,7 +11,14 @@ export default function App() {
        <main>
         <Dictionary/>
        </main>
-      <footer className="text-center">Coded by Anna Bilokon</footer>
+       <footer className="text-center small mt-4">
+  <p>
+    This project was coded by Anna Bilokon and is {" "}
+    <a href="https://github.com/Annabel1991/dictionary-react">open-sourced on GitHub</a>{" "}
+    and hosted on{" "}
+    <a href="https://luminous-stroopwafel-c10dfe.netlify.app" target="_blank"   rel="noopener noreferrer">Netlify</a>. 
+  </p>
+</footer>
       </div>
     </div>
   );

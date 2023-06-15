@@ -1,6 +1,4 @@
-.Synonym li {
-    list-style-type: none;
-    font-size: 20px;
-    font-style: italic;
-   
-}
+.Meaning .example {
+    color: #233142;
+    font-size: 28px;
+  }
