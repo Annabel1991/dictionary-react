@@ -70,7 +70,7 @@ export default function Dictionary(props) {
           height="80"
           width="1500"
           radius="100"
-          color="#14BAC3"
+          color="#f95959"
           ariaLabel="three-dots-loading"
           wrapperStyle={{}}
           wrapperClassName=""

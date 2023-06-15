@@ -1,7 +1,14 @@
 .Dictionary{
-background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-  url("./background.jpg");
+background:  #e3e3e3;
   background-repeat: no-repeat;
   background-size: cover;
-  color:antiquewhite;
+  color:#233142;
+  border-radius: 7px;
+  border: 1px solid #455d7a;
+  box-shadow: 0px 4px 4px rgba(9, 18, 192, 0.3);  
 }
+section{
+  color:#f95959;
+  text-align: center;
+}
+
